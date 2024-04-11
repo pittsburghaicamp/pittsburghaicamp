@@ -10,5 +10,5 @@ Summer Camp begins **June 17th, 2024** 🏴‍☠️
 - 🤔 We're looking for help with understanding advanced RAG
 - 💬 Ask us about vector databases and agent tools
 - 📫 How to reach us: team@pittsburghaicamp.com
-- 😄 Pronouns: bad/ass
+- 😄 Pronouns: bad/baddie
 - ⚡ Fun fact: We get better everyday
