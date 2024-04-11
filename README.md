@@ -1,16 +1,16 @@
-### Hi there 👋
+### Pittsburgh AI Camp 
 
-<!--
-**pittsburghaicamp/pittsburghaicamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pittsburgh AI Camp is a summer `Project Bounty Program` for high school students. Our students learn to build software applications using Large Language Models (LLMs). 
 
-Here are some ideas to get you started:
+Project Bounties, as we call them, are projects with monetary values attached to them. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current status 🏴‍☠️
+
+- 🔭 We're currently working on agentic applications
+- 🌱 We're currently learning Weaviate
+- 👯 We're looking to collaborate on this week's project
+- 🤔 We're looking for help with understanding advanced RAG
+- 💬 Ask us about vector databases and agent tools
+- 📫 How to reach us: team@pittsburghaicamp.com
+- 😄 Pronouns: bad/ass
+- ⚡ Fun fact: We get better everyday
