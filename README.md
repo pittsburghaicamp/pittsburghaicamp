@@ -2,7 +2,7 @@ Pittsburgh AI Camp is a summer `Project Bounty Program` for high school students
 
 Project Bounties, as we call them, are projects with monetary values attached to them. 
 
-Current status 🏴‍☠️
+Summer Camp begins **June 17th, 2024** 🏴‍☠️
 
 - 🔭 We're currently working on agentic applications
 - 🌱 We're currently learning Weaviate
