@@ -2,6 +2,8 @@ Pittsburgh AI Camp is a summer `Project Bounty Program` for high school students
 
 Project Bounties, as we call them, are projects with monetary values attached. 
 
+[Assemble AI Scholarship](https://assemblepgh.org/) is open for qualifying students in the Pittsburgh area.
+
 Summer Camp begins **June 17th, 2024** 🏴‍☠️
 
 - 🔭 We're currently working on agentic applications
