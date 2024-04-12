@@ -1,6 +1,6 @@
 Pittsburgh AI Camp is a summer `Project Bounty Program` for high school students. Our students learn to build software applications using Large Language Models (LLMs). 
 
-Project Bounties, as we call them, are projects with monetary values attached to them. 
+Project Bounties, as we call them, are projects with monetary values attached. 
 
 Summer Camp begins **June 17th, 2024** 🏴‍☠️
 
